@@ -1,0 +1,13 @@
+/*stylesheet*/
+* {
+    font-family: 'Almarai',Garamond,Impact, 'Arial Narrow Bold', sans-serif;
+    background-color: #000;
+    color: #ffa500;
+}
+
+
+
+img {
+    width: 400px;
+    height: auto;
+}
